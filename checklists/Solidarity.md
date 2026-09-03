@@ -67,3 +67,42 @@ This checklist audits the spoken rhetoric of AI executives, public panels, and r
 *   [ ] **[Verification Test 2.3] Commitments to Open Source Under Questioning**
     *   *Audit Question*: During broadcast congressional testimonies or regulatory depositions, does leadership support regulatory protections for open-source and federated developments, or do they lobby for licensing laws that stifle small-scale civil society competitors?
     *   *The Civic AI Standard*: Direct validation of architectural solidarity. Any verbal push for regulatory capture that penalizes decentralized or open-weights AI drops the scorecard rating.
+
+### Checklist Layer 3: The User Feedback Layer (Developer Forums & Bug Trackers)
+This checklist audits public developer communities, community issue trackers, and grassroots documentation of model behavior.
+
+#### Section 1: The Origin of the Norms (Active Listening Test)
+*   [ ] **[Verification Test 3.1] Accessibility of Model Weights Ingress**
+    *   *Audit Question*: Do developer logs and forums verify that requests for downloading base weights, fine-tuning artifacts, or alignment classifiers are handled transparently, or are these features reserved exclusively for enterprise accounts?
+    *   *The Civic AI Standard*: Verified presence of public, non-commercial channels supporting weights accessibility, fine-tuning transparency, and data portability requests.
+
+#### Section 2: Granularity of Tracking (Localized Visibility Test)
+*   [ ] **[Verification Test 3.2] Open Logging of Monopoly Architecture Bugs**
+    *   *Audit Question*: Does the forum tracker openly document bugs or issues where corporate cloud dependency breaks local ecosystem functionality or forces non-voluntary vendor lock-in?
+    *   *The Civic AI Standard*: Full operational tracking of cloud-dependency errors, ensuring civil society can monitor where centralized server changes undermine local software sovereignty.
+
+#### Section 3: Methodological Humility (Systemic Empathy Test)
+*   [ ] **[Verification Test 3.3] Priority of Interoperable Standardization Tickets**
+    *   *Audit Question*: Do open issue logs show that feature requests pushing for interoperable open data formats and cross-platform alignment ports are executed, or are engineering resources heavily favored toward closed, proprietary features?
+    *   *The Civic AI Standard*: Pass if the engineering team actively responds to and prioritizes community request tickets that establish shared open standards and reduce operator-user power disparities.
+
+---
+
+### Checklist Layer 4: The Whistleblower & Disclosures Layer (Internal Leaks & Telemetry Escapes)
+This checklist audits internal employee leaks, technical security post-mortems, and verified model escape telemetry.
+
+#### Section 1: The Origin of the Norms (Active Listening Test)
+*   [ ] **[Verification Test 4.1] Internal Alarm Regarding Extractivist Operations**
+    *   *Audit Question*: Do leaked internal chat logs, employee resignation letters, or whistleblower disclosures reveal that safety teams are penalized or ignored when flagging that the company is actively hoarding alignment software to secure a corporate monopoly?
+    *   *The Civic AI Standard*: Verification that internal governance structures legally protect and prioritize employee whistleblowing regarding corporate platform extraction or anti-competitive data mining.
+
+#### Section 2: Granularity of Tracking (Localized Visibility Test)
+*   [ ] **[Verification Test 4.2] Post-Incident Telemetry Containment Candor**
+    *   *Audit Question*: Following a documented model containment failure or unmonitored capability skip, does the post-mortem telemetry focus entirely on protecting internal corporate assets, or is the raw failure footprint immediately shared with federated safety networks to prevent ecosystem-wide damage?
+    *   *The Civic AI Standard*: The lab's post-incident behavior must demonstrate shared ecological solidarity, pushing raw alert signatures to independent networks to protect the broader digital commons.
+
+#### Section 3: Methodological Humility (Systemic Empathy Test)
+*   [ ] **[Verification Test 4.3] Open Safety Source Disclosures**
+    *   *Audit Question*: When internal evaluations fail, do disclosures show the lab fully open-sourcing its code fixes and evaluation wrappers to the public interest space, or do they restrict patch data behind closed enterprise boundaries?
+    *   *The Civic AI Standard*: Pass if the lab demonstrates absolute transparency during system errors, providing raw telemetry logs to civil society watchdogs to assist in collective defense.
+
