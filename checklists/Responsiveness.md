@@ -1,25 +1,25 @@
-# 📥 Verification Checklist: Responsiveness (Adaptation)
+# Verification Checklist: Responsiveness (Adaptation)
 
 ## Definition
-Under the Civic AI alignment framework developed by Audrey Tang and Dr. Caroline Green at the Oxford Institute for Ethics in AI, Responsiveness (formally termed "Responsiveness in Adaptation") maps directly to political philosopher Joan Tronto’s fourth ethical care phase: "care-receiving". [1, 2, 3]
+Under the Civic AI alignment framework developed by Audrey Tang and Dr. Caroline Green at the Oxford Institute for Ethics in AI, Responsiveness (formally termed "Responsiveness in Adaptation") maps directly to political philosopher Joan Tronto’s fourth ethical care phase: "care-receiving". 
 
-It is built upon a fundamental democratic maxim: a system that cannot be corrected will inevitably cause harm it cannot detect. Responsiveness rejects the idea of AI as a rigid, unchangeable black box, framing it instead as an adaptive entity capable of rapid public repair. [1, 2, 3]
+It is built upon a fundamental democratic maxim: a system that cannot be corrected will inevitably cause harm it cannot detect. Responsiveness rejects the idea of AI as a rigid, unchangeable black box, framing it instead as an adaptive entity capable of rapid public repair.
 
-The 6-Pack of Care framework defines Responsiveness through three core operational pillars: [1, 2]
+The 6-Pack of Care framework defines Responsiveness through three core operational pillars:
 1. The Right to Fork and Public Repair Loops
-The Definition: Responsiveness is the practical freedom for communities to modify, adapt, or completely fork a model's alignment pathways. [1]
+The Definition: Responsiveness is the practical freedom for communities to modify, adapt, or completely fork a model's alignment pathways.
 
-The Civic AI Standard: When a system inflicts a localized or systemic harm, those affected must possess the structural power to force a repair loop. The community's fix becomes the starting point for the next generation of the model, systematically reducing inherited algorithmic debt. [1, 2, 3]
+The Civic AI Standard: When a system inflicts a localized or systemic harm, those affected must possess the structural power to force a repair loop. The community's fix becomes the starting point for the next generation of the model, systematically reducing inherited algorithmic debt.
 
 2. Community-Authored Evaluations over Internal Filtering
 The Definition: The lab does not get to decide whether an alignment patch was "successful" or if a model is "safe".
 
-The Civic AI Standard: Responsiveness demands that the community affected defines what counts as harm, repair, and improvement. This is achieved using open-source, community-authored evaluation registries like Weval.org (a "Wikipedia for Evals"), preventing labs from hiding behind proprietary, automated alignment tests. [1]
+The Civic AI Standard: Responsiveness demands that the community affected defines what counts as harm, repair, and improvement. This is achieved using open-source, community-authored evaluation registries like Weval.org (a "Wikipedia for Evals"), preventing labs from hiding behind proprietary, automated alignment tests.
 
 3. Open Contestation Architecture vs. Corporate Walls
-The Definition: Deployed AI systems must feature decentralized, highly responsive feedback channels—such as Reinforcement Learning from Community Feedback (RLCF)—that translate direct human protest into behavioral changes. [1, 2]
+The Definition: Deployed AI systems must feature decentralized, highly responsive feedback channels—such as Reinforcement Learning from Community Feedback (RLCF)—that translate direct human protest into behavioral changes.
 
-The Civic AI Standard: If a community discovers an algorithmic vulnerability or active discrimination event, they must have the infrastructure to contest the output and override it at the local instance level immediately. A system that routes civil society grievances into automated, unmonitored corporate help queues is considered completely non-responsive. [1, 2, 3]
+The Civic AI Standard: If a community discovers an algorithmic vulnerability or active discrimination event, they must have the infrastructure to contest the output and override it at the local instance level immediately. A system that routes civil society grievances into automated, unmonitored corporate help queues is considered completely non-responsive.
 
 > **The Core Question Of "Responsiveness Test"**
 > Can those who are actively harmed by an AI system directly inspect, contest the output, and legally or programmatically force a rapid repair, or are modifications locked behind closed corporate server architectures?
@@ -35,6 +35,7 @@ This checklist audits formal corporate text, model technical specifications, and
 *   [ ] **[Verification Test 1.1] Community-Authored Evaluation Registries**
     *   *Audit Question*: Do the model release notes or safety architectures mandate validation through open-source, community-authored evaluation registries (such as Weval.org or public alignment repos), or is "safety" verified strictly through proprietary, internal laboratory tests?
     *   *The Civic AI Standard*: The lab must allow the target community to author, host, and execute the evaluation criteria used to judge whether a model's behavior has been successfully repaired.
+
 *   [ ] **[Verification Test 1.2] Documented "Right to Fork" Alignment Policies**
     *   *Audit Question*: Does the model's licensing or charter formally protect the legal and technical right of civil society developers to fork the alignment pathways and alter core safety definitions without vendor retaliation?
     *   *The Civic AI Standard*: Pass if documentation outlines a clear policy protecting community code-level derivation and alignment overrides from commercial software locks.
