@@ -3,7 +3,7 @@
 ## Definition
 Under the Civic AI and 6-Pack of Care framework established by Audrey Tang and Dr. Caroline Green at the Oxford Institute for Ethics in AI, Competence (specifically termed "Competence in Action") maps directly to Joan Tronto’s ethical care phase of "care-giving". 
 
-It states that good intentions are completely insufficient without working, reliable code. Competence transitions care from an abstract, high-level policy conversation or empathetic PR claim into verifiable technical performance that strengthens, rather than weakens—human relationships and community trust. 
+It states that good intentions are completely insufficient without working, reliable code. Competence transitions care from an abstract, high-level policy conversation or empathetic PR claim into verifiable technical performance that strengthens, rather than weakens human relationships and community trust. 
 
 The framework defines Competence through three primary dimensions:
 
