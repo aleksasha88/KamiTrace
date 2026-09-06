@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: kamitrace-linter
+        name: KamiTrace Architecture Integrity Linter
+        entry: python3 tests/lint_pillars.py
+        language: system
+        files: \.md$
+        pass_filenames: false
