@@ -91,3 +91,15 @@ $$\text{Total ADS Score} = \sum_{row=2}^{97} I_{row}$$
 
 This outputs a definitive final health index between **0.00** and **1.00**, allowing peer-to-peer benchmarking across competing frontier models and deployment environments.
 
+---
+
+## Source Data Accessibility for Test Execution
+The framework is structurally split down the middle by access permissions: **48 tests** rely strictly on publicly verifiable artifacts, while the other **48 tests** require direct access to proprietary systems and internal telemetry.
+
+The breakdown of what can and cannot be performed highlights the limits of external auditing:
+
+### ❌ Inoperable Layers: 48 Tests (Automatic Fail / Skip)
+
+* **Whistleblower & Disclosures Layer (24 Tests)**: Third-party auditors cannot track whether internal safety teams are ignored when flagging ecological damage, nor can they verify internal sandbox exploitation dashboards or cross-organizational cartels.
+* **User Feedback Layer (24 Tests — Highly Restricted)**: While public developer boards can be indexed, proprietary labs lock down their backend issue queues. Tests requiring verification of specialized localized kill-switches, offline edge processing architectures, or open social graph exports fail immediately because these platforms are closed data silos.
+
