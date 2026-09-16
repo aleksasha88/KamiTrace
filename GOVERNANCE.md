@@ -8,7 +8,7 @@ This document defines the decentralized decision-making processes, voting thresh
 
 ### A. The Framework Editorial Board (Maintainers)
 *   **Definition**: Foundational architects, researchers, and technical alignment theorists.
-*   **Responsibility**: Triages and manages foundational proposals to modify the structural core of the 24 verification metrics or the dashboard weighting algorithm.
+*   **Responsibility**: Triages and manages foundational proposals to modify the structural core of the 96 verification metrics or the dashboard weighting algorithm.
 *   **Onboarding**: New board members are integrated via an open, unanimous agreement of the initial founding panel.
 
 ### B. Methodology Reviewers (Collaborators)
