@@ -21,7 +21,7 @@ Focus on reviewing the proposed calculation engine and designing the first physi
 ### 1. Contribution Targets
 *   **Architecture Gap Analysis**: Review the current dashboard engine proposal and identify architectural omissions, boundary flaws, or engineering limitations.
 *   **First-Iteration Blueprint**: Outline and draft a reasonable, minimal viable product (MVP) layout for the initial dashboard deployment.
-*   **Data Layout Design**: Developing the columns, constraints, and data validation rules for the foundational scorecard file (`/checklists/KamiTraceAuditScorecard.csv`).
+*   **Data Layout Design**: Developing the columns, constraints, and data validation rules for the foundational scorecard file (`/checklists/scorecard.csv`).
 
 ### 2. How to Submit Changes
 *   Submit design documents, flowchart definitions, or gap analyses to the `/dashboard` directory as clear markdown files.
