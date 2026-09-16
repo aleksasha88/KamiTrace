@@ -69,7 +69,7 @@ Telemetry is the automated, digital recording of how a system behaves under real
 True safety requires shifting absolute authority over AI alignment away from internal corporate executives and handing it over to transparent, public-interest structures, measured by:
 
 * **Public Alignment Assemblies:** Modeled after deliberative civic modules, these form public panels of citizens and civil society watchdogs who hold explicit structural veto power over data distributions, deployment timelines, and core behavioral thresholds.  
-* **Public Service Level Agreements (CSLAs):** Legally binding, community-facing contracts that make a lab financially and structurally liable for downstream societal harms, completely replacing boilerplate End User License Agreements (EULAs).  
+* **Civic Service Level Agreements (CSLAs):** Legally binding, community-facing contracts that make a lab financially and structurally liable for downstream societal harms, completely replacing boilerplate End User License Agreements (EULAs).  
 * **Decentralized Kill-Switches:** Runtime safety override mechanisms held directly by targeted local communities, allowing them to instantly freeze an API connection or restrict model outputs when active socio-political manipulation is detected.
 
 ---
