@@ -1,5 +1,6 @@
 # KamiTrace: A 4-Layer 96-Point Civic AI Audit Engine for Relational AI Safety
-> **Educational Project Notice:** This repository is an academic and educational exercise exploring the operationalization of civic AI frameworks. 
+> **Educational Project Notice:** This repository is an academic and educational exercise exploring the operationalization of civic AI frameworks.
+
 > **Writing Assistance:** The technical documentation and structural refinement within this project were developed with the assistance of Gemini, an AI developed by Google.
 
 ## Summary
