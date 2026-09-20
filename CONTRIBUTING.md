@@ -1,10 +1,18 @@
-# Contributing to the KamiTrace Framework Development
+# Contributing to KamiTrace
 
-Welcome! KamiTrace is in its foundational iteration. Our primary objective is to standardize the **96-Point Multi-Layered Civic AI Audit framework** before coding and running active audits. 
+Welcome! **KamiTrace is in its foundational iteration.** Our primary objective is to standardize the **96-Point Multi-Layered Civic AI Audit framework** before coding and running active audits. 
 
 Alternatively, this initiative may remain an educational project designed to popularize the **"6-Pack of Care" framework** and spark broad civic discussion regarding the evaluation of various institutions developing AI technologies. We need your help to stress-test, refine, and code the parameters of this evaluation engine.
 
-> 🚨 **Alpha Notice**: We are **NOT** accepting real-world lab audit submissions, whistleblower telemetry data, or active brand evaluation logs at this stage. All contributions must be strictly limited to methodology modifications, blueprint updates, and code proposals.
+> 🚨 **Alpha Notice:** We are **NOT** accepting real-world lab audit submissions, whistleblower telemetry data, or active brand evaluation logs at this stage. All contributions must be strictly limited to methodology modifications, blueprint updates, and code proposals.
+
+---
+
+## 🤖 Open-Source AI Guidelines
+
+This is an educational project. Contributions, structural fixes, methodology expansions, and documentation edits are highly welcome. 
+
+Please note that the baseline documentation has been structurally refined using Google's Gemini model. In the spirit of open-source transparency, we encourage all future contributors to disclose any generative AI workflows or models used to assist in their pull requests.
 
 ---
 
